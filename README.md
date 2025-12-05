@@ -8,7 +8,7 @@ This repository contains all notebooks and resources used for the DL & GenAI Pro
  
 Model-specific training notebooks are organized separately:
 - **roberta-large.ipynb** – Fine-tuning the RoBERTa-Large transformer model for multi-label emotion classification.  
-- **scratch-bilstm-model (1).ipynb** – Implementation and training of a custom BiLSTM model built from scratch.  
+- **scratch-bilstm-model.ipynb** – Implementation and training of a custom BiLSTM model built from scratch.  
 - **tfidf-lgbm.ipynb** – Classical ML pipeline using TF-IDF vectorization with LightGBM classifiers.
 
 These notebooks together demonstrate data preprocessing, model training, evaluation, W&B experiment tracking, and final Kaggle-ready inference.  
