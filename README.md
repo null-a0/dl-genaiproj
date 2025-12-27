@@ -199,19 +199,6 @@ The RoBERTa-Large model is deployed on Hugging Face Spaces for easy access and t
 - Support for multiple text inputs
 - Instant results with confidence scores
 
-## 📝 Citation
-
-If you use this work in your research, please cite:
-
-```bibtex
-@misc{saha2025emotionclassification,
-  author = {Abhishek Saha},
-  title = {Multi-Label Emotion Classification using Transformers and Deep Learning},
-  year = {2025},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/null-a0/dl-genaiproj}}
-}
 ```
 
 ## 👤 Author
