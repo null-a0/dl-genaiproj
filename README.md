@@ -199,8 +199,6 @@ The RoBERTa-Large model is deployed on Hugging Face Spaces for easy access and t
 - Support for multiple text inputs
 - Instant results with confidence scores
 
-```
-
 ## 👤 Author
 
 **Abhishek Saha**
